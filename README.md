@@ -21,7 +21,7 @@ npm install -g @nestjs/cli
 #### ②：Nest環境を構築する
 
 ```
-next new my-project-name && cd my-project-name
+nest new my-project-name && cd my-project-name
 ```
 
 #### ③：今回使用する外部ライブラリのインストール
