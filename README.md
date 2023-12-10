@@ -106,7 +106,7 @@ export class LanguageModelController {
 
 ```
 
-#### ③：CORS設定
+### ③：CORS設定
 
 ・main.ts内でCORSの設定を行う
 
